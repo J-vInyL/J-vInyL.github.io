@@ -95,13 +95,13 @@ analytics:
 author:
   name: "준그 입니다."
   avatar: "/assets/images/Me.jpg"
-  bio: "은 경험을 통해 더 좋은 기록을 쓰고싶은 블로그"
+  bio: "많은 경험을 통해 더 좋은 기록을 쓰고싶은 블로그"
   location: "South Korea"
-  email:
+  email: "wnstjq7894@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "wnstjq7894@gmail.com"
+    #- label: "Email"
+    #  icon: "fas fa-fw fa-envelope-square"
+    #  url: "wnstjq7894@gmail.com"
     #- label: "Website"
     #icon: "fas fa-fw fa-link"
     # url: "https://your-website.com"
