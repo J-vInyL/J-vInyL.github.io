@@ -30,9 +30,9 @@ masthead_title: # overrides the website title displayed in the masthead, use " "
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
 comments:
-  provider: # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider: "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname: # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname: "J-vInyL-github-io" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server: # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -97,11 +97,11 @@ author:
   avatar: "/assets/images/Me.jpg"
   bio: "많은 경험을 통해 더 좋은 기록을 쓰고싶은 블로그"
   location: "South Korea"
-  email: "wnstjq7894@gmail.com"
+  email:
   links:
-    #- label: "Email"
-    #  icon: "fas fa-fw fa-envelope-square"
-    #  url: "wnstjq7894@gmail.com"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "wnstjq7894@gmail.com"
     #- label: "Website"
     #icon: "fas fa-fw fa-link"
     # url: "https://your-website.com"
@@ -267,6 +267,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
