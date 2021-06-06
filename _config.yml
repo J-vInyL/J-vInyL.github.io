@@ -24,8 +24,8 @@ description: "많은 경험을 통해 더 좋은 기록을 쓰고싶은 블로�
 url: "https://github.com/J-vInyL/J-vInyL.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser: "/assets/images/Me.HEIC"
-logo: "/assets/images/Me.HEIC"
+teaser: "/assets/images/Me.jpg"
+logo: "/assets/images/Me.jpg"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
@@ -93,8 +93,8 @@ analytics:
 
 # Site Author
 author:
-  name: "준그 이빈다."
-  avatar: "/assets/images/Me.HEIC"
+  name: "준그 입니다."
+  avatar: "/assets/images/Me.jpg"
   bio: "많은 경험을 통해 더 좋은 기록을 쓰고싶은 블로그"
   location: "South Korea"
   email:
