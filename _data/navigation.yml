@@ -1,6 +1,8 @@
 # main links
 main:
-  - title: "블로그 방문하기"
-    url: https://https://j-vinyl.github.io/
-  - title: "소개"
-    url: /about/
+  - title: "category"
+    url: /categories/
+  - title: "Tag"
+    url: /tags/
+  - title: "Archive"
+    url: /year-archive/
