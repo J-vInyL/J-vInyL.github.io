@@ -1,11 +1,11 @@
 ---
-title: 상품 삭제 만들기 React Express MongoDB 활용
+title: MongoDB Mongoose & Node.js 데이터 삭제
 description: React Express MongoDB 활용
 categories: 개인프로젝트
 tags: Finder
 ---
 
-## 들어가며..
+## MongoDB Mongoose Delete(삭제) 기능
 
 > 프로젝트에 CRUD 중 Create 와 Read만 있어 추가하기위해 Delete 기능도 추가함
 
@@ -17,9 +17,10 @@ tags: Finder
 
 - 통신이 완료되면 최상위 경로로 가기
 
+`코드 예시`
+
 ```
-axios
-      .delete(`/api/product/products_by_id_delete?id=${productId}`
+axios.delete(`/api/product/products_by_id_delete?id=${productId}`
       .then(alert("삭제 완료"));
     props.history.push("/");
 ```
@@ -36,7 +37,7 @@ axios
 db.schema.DeleteOne({ name : 삭제할 이름})
 ```
 
-> 몽고DB Delete 쿼리를 이용함
+> Delete 쿼리를 이용함
 
 ```
 router.delete("/products_by_id_delete"  req, res
