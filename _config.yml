@@ -21,7 +21,7 @@ title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 #name: "준그 입니다."
 #description: "많은 경험을 통해 더 좋은 기록을 쓰고싶은 블로그"
-#url: "https://github.com/J-vInyL/J-vInyL.github.io"
+url: "https://github.com/J-vInyL/J-vInyL.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 #teaser: "/assets/images/Me.jpg"
