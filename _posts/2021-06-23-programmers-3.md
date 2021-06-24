@@ -1,7 +1,7 @@
 ---
 title: 프로그래머스 k번째 수 Javascript
 description: 프로그래머스 코딩테스트 연습
-categories: 알고리즘
+categories: Algorithm
 tags: 프로그래머스
 ---
 

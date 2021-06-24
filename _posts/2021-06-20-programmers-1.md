@@ -1,8 +1,8 @@
 ---
 title: 프로그래머스 다리를 지나는 트럭 Javascript
 description: 프로그래머스 코딩테스트 연습
-categories: 알고리즘
-tags: 프로그래머스
+categories: Algorithm
+tags: Programmers
 ---
 
 ## 프로그래머스 다리를 지나는 트럭 Javascript
