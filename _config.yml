@@ -16,7 +16,7 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "ko-KR"
-title: "준그 의 개발 기록들"
+title: "준그의 개발 기록들"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 #name: "준그 입니다."
